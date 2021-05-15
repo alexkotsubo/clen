@@ -777,7 +777,8 @@ li.menu__title {
 	}
 
 	.nav__top-address {
-		margin-right: 18px;
+		margin-right: auto;
+		margin-left: 15px;
 	}
 
 	.nav__top-address address {
